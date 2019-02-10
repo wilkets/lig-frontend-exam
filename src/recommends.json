@@ -1,0 +1,20 @@
+[
+    {
+        "title": "サンプルテキストサンプルテキストサンプルテキストサンプルテキスト",
+        "img_src": "/images/article-img.jpg",
+        "img_hover_src": "/images/article-hover.jpg",
+        "date": "2016.03.26"
+    },
+    {
+        "title": "サンプルテキストサンプルテキストサンプルテキストサンプルテキスト",
+        "img_src": "/images/article-img.jpg",
+        "img_hover_src": "/images/article-hover.jpg",
+        "date": "2016.03.26"
+    },
+    {
+        "title": "サンプルテキストサンプルテキストサンプルテキストサンプルテキスト",
+        "img_src": "/images/article-img.jpg",
+        "img_hover_src": "/images/article-hover.jpg",
+        "date": "2016.03.26"
+    }
+]
